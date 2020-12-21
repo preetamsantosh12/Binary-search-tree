@@ -3,7 +3,7 @@
 #include<stdio.h>
 
 typedef struct bstnode {
-    int data;
+    int dat
     struct bstnode * left ;
     struct bstnode * right;
 }bstnode;
